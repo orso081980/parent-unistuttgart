@@ -1,0 +1,7 @@
+polars[cloud]>=1.0.0
+numpy
+matplotlib
+scipy
+sentence-transformers
+python-dotenv
+boto3

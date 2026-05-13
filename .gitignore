@@ -1,0 +1,15 @@
+# Environment — never commit real credentials
+.env
+
+# Generated output — large files, no need in version control
+output/
+visualizations/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
